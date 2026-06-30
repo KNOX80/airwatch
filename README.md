@@ -7,7 +7,7 @@ and presents it three ways: a live dashboard, a forecast chart, and an interacti
 > Built as a focused exercise in consuming a real API and rendering JSON responses as
 > React components — covering dashboards, charts and maps.
 
-**Live demo:** _(add your deployed URL here, e.g. https://airwatch-yourname.vercel.app)_
+**Live demo:** https://airwatch-three.vercel.app/
 
 ---
 
